@@ -1,4 +1,4 @@
-# Traveller Insights Dashboard – Overseas Travel to Australia
+# Traveller Insights Dashboard: Overseas Travel to Australia
 
 An interactive Shiny dashboard analysing overseas visitor patterns to Australia using ABS data.  
 This project focuses on exploratory analysis, data-driven insights, and effective visual communication.
