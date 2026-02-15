@@ -28,19 +28,6 @@ The insights are designed to support tourism planning, marketing strategy, and p
 - **dplyr**
 - **ABS Data Explorer**
 
-## 📁 Repository Structure
-.
-├── ui.R
-├── server.R
-├── global.R
-├── data/
-│ ├── sc.csv
-│ ├── rs.csv
-│ └── country_lookup.csv
-├── www/
-├── README.md
-└── .gitignore
-
 ## ▶️ How to Run Locally
 ```r
 shiny::runApp()
