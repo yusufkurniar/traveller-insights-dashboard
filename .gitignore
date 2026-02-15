@@ -1,0 +1,19 @@
+# RStudio / R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Shiny
+www/.DS_Store
+www/*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Renviron
+.Renviron
