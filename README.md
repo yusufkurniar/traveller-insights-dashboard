@@ -1,10 +1,11 @@
 # Traveller Insights Dashboard: Overseas Travel to Australia
 
 You can explore the interactive dashboard online without running any code locally.
-[![Shiny App](https://img.shields.io/badge/Shiny-Live-blue?logo=r)](https://yusufkurniar.shinyapps.io/traveller-insights-dashboard/)
 
 An interactive Shiny dashboard analysing overseas visitor patterns to Australia using ABS data.  
 This project focuses on exploratory analysis, data-driven insights, and effective visual communication.
+
+🔗 **Live Dashboard:** [Traveller Insights Dashboard](https://yusufkurniar.shinyapps.io/traveller-insights-dashboard/)
 
 ## 🔍 Project Overview
 The dashboard answers key questions such as:
